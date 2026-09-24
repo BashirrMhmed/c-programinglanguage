@@ -1,0 +1,10 @@
+C:\Users\Ap\Desktop\c#\homeassigment\homeassigment\bin\Debug\homeassigment.exe.config
+C:\Users\Ap\Desktop\c#\homeassigment\homeassigment\bin\Debug\homeassigment.exe
+C:\Users\Ap\Desktop\c#\homeassigment\homeassigment\bin\Debug\homeassigment.pdb
+C:\Users\Ap\Desktop\c#\homeassigment\homeassigment\obj\Debug\homeassigment.csproj.AssemblyReference.cache
+C:\Users\Ap\Desktop\c#\homeassigment\homeassigment\obj\Debug\homeassigment.Form1.resources
+C:\Users\Ap\Desktop\c#\homeassigment\homeassigment\obj\Debug\homeassigment.Properties.Resources.resources
+C:\Users\Ap\Desktop\c#\homeassigment\homeassigment\obj\Debug\homeassigment.csproj.GenerateResource.cache
+C:\Users\Ap\Desktop\c#\homeassigment\homeassigment\obj\Debug\homeassigment.csproj.CoreCompileInputs.cache
+C:\Users\Ap\Desktop\c#\homeassigment\homeassigment\obj\Debug\homeassigment.exe
+C:\Users\Ap\Desktop\c#\homeassigment\homeassigment\obj\Debug\homeassigment.pdb
